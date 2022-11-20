@@ -1,0 +1,18 @@
+original
+
+        numbers.add(89);
+        numbers.add(-66687);
+        numbers.add(8675309);  
+        numbers.add(32);
+        numbers.add(-149);
+        numbers.add(5903);
+        numbers.add(49);
+
+alternate
+        numbers.add(24);
+        numbers.add(10);
+        numbers.add(250);  
+        numbers.add(15);
+        numbers.add(200);
+        numbers.add(500);
+        numbers.add(398);
