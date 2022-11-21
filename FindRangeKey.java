@@ -31,6 +31,11 @@ public class FindRangeKey{
         range = largest - smallest;
         System.out.println("The range of values is " + range);
         
+        // or
+        Collections.sort(numbers);
+        range = numbers.get(numbers.size() - 1) - numbers.get(0);
+        System.out.println("The range of values is " + range);
+        
         // enter your code here
         
     }
